@@ -1,18 +1,18 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+repository:  https://github.com/israelavilamares
+favicon: favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: israel joaquin avila mares 
+title: ING Informatica
+email: israeljoaquinavilamares@gmail.com
+#website: 
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
