@@ -50,14 +50,14 @@ about_profile_image: perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
  Hello, I am Israel, a sixth semester student in the computer engineering degree along i have developed several proyect 
   I am most skilled in: <mark>data base</mark> and <mark> interface design </mark>
-  
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Particulas
+        link:  https://github.com/israelavilamares/particulas
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
