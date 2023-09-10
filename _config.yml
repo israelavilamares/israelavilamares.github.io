@@ -16,16 +16,16 @@ darkmode: true
 
 # Social links
 twitter_username: https://twitter.com/israelavil51653
-github_username:  https://github.com/israelavilamares 
+github_username:  https://github.com/israelavilamares
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-facebook_username: https://www.facebook.com/people/Israel-Joaquin-Avila-Mares/pfbid02dXtgf3W3yB5UUom42rj1PExqyguCBF8M6Hz5z5WBDCUEijwpwzFdMwrjViDzcxyXl/?mibextid=2JQ9oc
+facebook_username: https://m.facebook.com/people/Israel-Joaquin-Avila-Mares/100009842228218/
 # flickr_username: jekyll
 #instagram_username: jameswgrant
 #linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: https://www.youtube.com/channel/UC8yEoexxP2GnLGP5F6wGMgA
+youtube_username: https://www.youtube.com/@aprediendoTecnologias8390
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -46,12 +46,11 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+ Hello, I am Israel, a sixth semester student in the computer engineering degree along i have developed several proyect 
+  I am most skilled in: <mark>data base</mark> and <mark> interface design </mark>
+  
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
