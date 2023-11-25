@@ -96,7 +96,7 @@ content:
           bishop of Guadalajara, on November 3, 1792, the Royal University of Guadalajara was inaugurated, which chronologically became the second of the New Spain
         description: | # this will include new lines to allow paragraphs
           during my this time in the university i learned in base to works and proyect in current technologies
-
+          also i have course about container(Docker), the cloud ,microservices, data privacy y AI 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
