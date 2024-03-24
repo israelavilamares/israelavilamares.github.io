@@ -15,17 +15,17 @@ email: israeljoaquinavilamares@gmail.com
 darkmode: true
 
 # Social links
-twitter_username: https://twitter.com/israelavil51653
-github_username:  https://github.com/israelavilamares
+#twitter_username: https://twitter.com/israelavil51653
+#github_username:  https://github.com/israelavilamares
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-facebook_username: https://m.facebook.com/people/Israel-Joaquin-Avila-Mares/100009842228218/
+#facebook_username: https://m.facebook.com/people/Israel-Joaquin-Avila-Mares/100009842228218/
 # flickr_username: jekyll
 #instagram_username: jameswgrant
 #linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: https://www.youtube.com/@aprediendoTecnologias8390
+#youtube_username: https://www.youtube.com/@aprediendoTecnologias8390
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hello, I am Israel, a sixth semester student in the computer engineering degree along i have developed several proyect 
+ Hello, I am Israel, a seven semester student in the computer engineering degree along i have developed several proyect 
   I am most skilled in: <mark>data base</mark> and <mark> interface design </mark>
 
 content:
@@ -56,7 +56,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Particulas
+        title: Particulas, regresion-polinomial, Odontosaurio_jn2.0 
         link:  https://github.com/israelavilamares/particulas
         # link_text: Project Website
         additional_links:
